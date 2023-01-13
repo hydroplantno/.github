@@ -10,4 +10,4 @@ Get in contact with <b><a href="https://hydroplant.no/join-us/">us</a></b>.
 </p>
 
 ## 
-<p align="center">&copy Hydroplant 2022</p>
+<p align="center">&copy Hydroplant 2021-2023</p>
