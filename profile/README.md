@@ -4,10 +4,10 @@
   <h1 align="center">Hydroplant</a> - Growing the future</h1>
   
 <p align="center">
-Making a fully autonomous hydroponic farming system.
+Making a fully autonomous vertical farming system.
 <br>
 Get in contact with <b><a href="https://hydroplant.no/join-us/">us</a></b>.
 </p>
 
 ## 
-<p align="center">&copy Hydroplant 2021-2023</p>
+<p align="center">&copy Hydroplant 2021-2025</p>
