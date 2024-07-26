@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://hydroplant.no">
-  <img src="https://github.com/hydroplantno/.github/blob/main/images/HYDROPLANT_LOGO_5000X5000.png" style="width:50%"/></p>
+  <img src="https://github.com/hydroplantno/.github/blob/main/images/appico.png" style="width:50%"/></p>
   <h1 align="center">Hydroplant</a> - Growing the future</h1>
   
 <p align="center">
